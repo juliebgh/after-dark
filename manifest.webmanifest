@@ -1,0 +1,10 @@
+{
+  "name": "AFTER DARK — The Game",
+  "short_name": "AFTER DARK",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#140e15",
+  "theme_color": "#160f16",
+  "description": "Jeu de dilemmes, questions et défis pour adultes."
+}
